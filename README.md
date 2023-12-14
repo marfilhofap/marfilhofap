@@ -12,7 +12,7 @@ I'm a Software Developer based in Timor-Leste, currently working in one of the T
 
 - In my free time, I enjoy teaching web development using PHP and PostgreSQL in the open-source community in Timor-Leste called [FDSL](https://www.fdsl.tl/). I also teach about open source and Linux operating systems.
 
-- 📫 You can reach me at [marfilhofap@gmail.com](mailto:marfilhofap@gmail.com).
+- 📫 You can reach me at [marfilhofap@gmail.com](mailto:marfilhofap@gmail.com) or [My Details Resume](https://resume-marfilho-fidel-alvares-pereira.onrender.com/)
 
 ## My Projects
 
